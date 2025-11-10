@@ -2,7 +2,7 @@
 custom parts
 
 radio 3d model update
-<img width="792" height="573" alt="Schermafbeelding 2025-10-22 203209" src="https://github.com/user-attachments/assets/89718e33-8abf-41d1-a52b-72fcb1f6d833" />
+<img width="758" height="637" alt="image" src="https://github.com/user-attachments/assets/c43e55ac-9cdc-48ab-b3c2-c2df1a8384ca" />
 
 
 some credits go to:
