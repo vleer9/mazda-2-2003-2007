@@ -2,6 +2,7 @@ MANUAL FOR CUSTOM RADIO
  
 PARTS:
 radio cable converter:  https://www.amazon.nl/gp/product/B00N3TY8TO/ref=ox_sc_act_image_4?smid=A54Q6KYSWXEFB&psc=1
+
 pcb components:
 6 diodes 12v
 screw connectors 3x4, 1x10
